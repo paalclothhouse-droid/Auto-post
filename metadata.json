@@ -1,0 +1,8 @@
+{
+  "name": "SocialStream AI Automator",
+  "description": "A high-end automation dashboard for content reposting. Track Instagram profiles, generate AI-optimized captions with Gemini, and simulate multi-platform distribution workflows with real-time status monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
